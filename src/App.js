@@ -1,9 +1,9 @@
-function App() {
-  return (
-    <div className="App">
-      sup baby
-    </div>
-  );
+const App = () => {
+    return (
+        <div>
+            sup baby
+        </div>
+    )
 }
 
-export default App;
+export default App
